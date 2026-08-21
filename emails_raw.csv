@@ -1,0 +1,3317 @@
+subject,text,label,source
+Unusual sign-in activity detected,"From: user809@mailer.biz
+To: target314@example.com
+Date: 2024-03-26
+Message-ID: <372637@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. https://secure-verify-now.example.com",phishing,ceas2008
+Team offsite planning,"From: user86@example.com
+To: target318@example.com
+Date: 2024-02-17
+Message-ID: <313068@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.
+
+    unsubscribe   ",ham,enron
+Server maintenance window,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+URGENT: limited time offer,"<html><body><p>URGENT: limited time offer</p><br>From: user157@mailer.biz
+To: target437@example.com
+Date: 2024-05-20
+Message-ID: <445280@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://192.168.1.5/login</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Security alert from IT department,"<html><body><p>Security alert from IT department</p><br>From: user666@mailer.biz
+To: target73@example.com
+Date: 2024-05-18
+Message-ID: <583367@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. http://free-gift-claim.example.net</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Action required: verify your password,"<html><body><p>Action required: verify your password</p><br>From: user91@mailer.biz
+To: target643@example.com
+Date: 2024-05-12
+Message-ID: <539128@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. http://192.168.1.5/login</body></html>",phishing,ceas2008
+Server maintenance window,Attached is your invoice for last month's consulting hours.,ham,enron
+Re: Conference room booking,"From: user958@example.com
+To: target727@example.com
+Date: 2024-04-12
+Message-ID: <644103@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user477@example.com
+To: target887@example.com
+Date: 2024-05-25
+Message-ID: <985885@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>
+
+    unsubscribe   ",ham,enron
+You have WON a prize!!!,"Work from home and earn $5000/week, no experience needed, sign up today!!! http://free-gift-claim.example.net",spam,spamassassin
+Draft contract attached,"From: user530@example.com
+To: target784@example.com
+Date: 2024-04-02
+Message-ID: <944554@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+URGENT: limited time offer,"From: user985@mailer.biz
+To: target320@example.com
+Date: 2024-06-06
+Message-ID: <759726@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Lunch tomorrow?,"From: user204@example.com
+To: target151@example.com
+Date: 2024-01-02
+Message-ID: <356736@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+Draft contract attached,Attached is your invoice for last month's consulting hours.,ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user767@example.com
+To: target986@example.com
+Date: 2024-05-02
+Message-ID: <109717@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+URGENT: limited time offer,"From: user776@mailer.biz
+To: target746@example.com
+Date: 2024-02-04
+Message-ID: <875507@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org",spam,spamassassin
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user746@example.com
+To: target348@example.com
+Date: 2024-02-08
+Message-ID: <300896@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Meeting notes from yesterday,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Hot singles in your area,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://accounts-update.example.org",spam,spamassassin
+Follow-up on our call,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user453@example.com
+To: target672@example.com
+Date: 2024-05-24
+Message-ID: <602351@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Your invoice from last month,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user883@example.com
+To: target800@example.com
+Date: 2024-01-28
+Message-ID: <787584@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>
+
+    unsubscribe   ",ham,enron
+Server maintenance window,"From: user543@example.com
+To: target244@example.com
+Date: 2024-07-16
+Message-ID: <162804@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Final notice: update your billing information,"<html><body><p>Final notice: update your billing information</p><br>From: user723@mailer.biz
+To: target400@example.com
+Date: 2024-08-09
+Message-ID: <252200@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://free-gift-claim.example.net</body></html>",phishing,ceas2008
+Team offsite planning,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Best deal of the year - act now,"From: user13@mailer.biz
+To: target691@example.com
+Date: 2024-04-13
+Message-ID: <709231@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. https://secure-verify-now.example.com
+
+    unsubscribe   ",spam,spamassassin
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user306@mailer.biz
+To: target204@example.com
+Date: 2024-06-02
+Message-ID: <799080@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. http://bit.ly/3xQ1z</body></html>",spam,spamassassin
+Your invoice from last month,Attached is your invoice for last month's consulting hours.,ham,enron
+Follow-up on our call,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Weekly status report,Here is this week's status report. No major blockers to report.,ham,enron
+Draft contract attached,Here is this week's status report. No major blockers to report.,ham,enron
+Make $5000 a week from home,"From: user621@mailer.biz
+To: target736@example.com
+Date: 2024-02-01
+Message-ID: <318877@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!",spam,spamassassin
+Team offsite planning,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+URGENT: limited time offer,"From: user571@mailer.biz
+To: target495@example.com
+Date: 2024-03-12
+Message-ID: <686252@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://secure-verify-now.example.com",spam,spamassassin
+Buy cheap meds online now,"From: user20@mailer.biz
+To: target870@example.com
+Date: 2024-09-21
+Message-ID: <132709@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Team offsite planning,"From: user487@example.com
+To: target970@example.com
+Date: 2024-09-06
+Message-ID: <377932@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user249@example.com
+To: target262@example.com
+Date: 2024-04-11
+Message-ID: <778120@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user487@example.com
+To: target943@example.com
+Date: 2024-05-12
+Message-ID: <121215@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Q3 budget review,"From: user695@example.com
+To: target396@example.com
+Date: 2024-05-09
+Message-ID: <858889@mail.example.com>
+
+Here is this week's status report. No major blockers to report.",ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user277@example.com
+To: target105@example.com
+Date: 2024-03-03
+Message-ID: <296494@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Re: Conference room booking,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Weekly status report,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Best deal of the year - act now,"From: user537@mailer.biz
+To: target725@example.com
+Date: 2024-07-24
+Message-ID: <929493@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.
+
+    unsubscribe   ",spam,spamassassin
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Draft contract attached,Here is this week's status report. No major blockers to report.,ham,enron
+Holiday schedule reminder,"From: user981@example.com
+To: target713@example.com
+Date: 2024-09-15
+Message-ID: <152657@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+Holiday schedule reminder,Here is this week's status report. No major blockers to report.,ham,enron
+Re: Conference room booking,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user665@mailer.biz
+To: target929@example.com
+Date: 2024-12-26
+Message-ID: <271960@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Lose weight fast - guaranteed,"From: user260@mailer.biz
+To: target268@example.com
+Date: 2024-09-14
+Message-ID: <692099@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://secure-verify-now.example.com",spam,spamassassin
+Re: Conference room booking,"From: user162@example.com
+To: target750@example.com
+Date: 2024-07-26
+Message-ID: <770318@mail.example.com>
+
+Here is this week's status report. No major blockers to report.",ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user868@example.com
+To: target433@example.com
+Date: 2024-01-17
+Message-ID: <211642@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Re: Conference room booking,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Draft contract attached,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Project timeline update,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Security alert from IT department,"Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://accounts-update.example.org",phishing,ceas2008
+Meeting notes from yesterday,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user142@mailer.biz
+To: target896@example.com
+Date: 2024-12-13
+Message-ID: <293929@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.</body></html>",phishing,ceas2008
+Team offsite planning,The conference room is booked for 2pm. See you all there.,ham,enron
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user365@mailer.biz
+To: target160@example.com
+Date: 2024-03-09
+Message-ID: <484914@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Follow-up on our call,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Follow-up on our call,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Follow-up on our call,"From: user831@example.com
+To: target798@example.com
+Date: 2024-05-02
+Message-ID: <947935@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user327@example.com
+To: target268@example.com
+Date: 2024-02-03
+Message-ID: <458411@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Your invoice from last month,"From: user690@example.com
+To: target113@example.com
+Date: 2024-07-19
+Message-ID: <422623@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user898@example.com
+To: target147@example.com
+Date: 2024-11-17
+Message-ID: <331780@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>
+
+    unsubscribe   ",ham,enron
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Your account has been suspended,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://free-gift-claim.example.net,phishing,ceas2008
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user626@example.com
+To: target201@example.com
+Date: 2024-04-04
+Message-ID: <993590@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+URGENT: limited time offer,"From: user184@mailer.biz
+To: target572@example.com
+Date: 2024-12-18
+Message-ID: <535352@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Follow-up on our call,"From: user336@example.com
+To: target875@example.com
+Date: 2024-09-15
+Message-ID: <221886@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Project timeline update,The conference room is booked for 2pm. See you all there.,ham,enron
+Security alert from IT department,"<html><body><p>Security alert from IT department</p><br>From: user247@mailer.biz
+To: target86@example.com
+Date: 2024-09-25
+Message-ID: <113026@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Team offsite planning,The conference room is booked for 2pm. See you all there.,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user36@mailer.biz
+To: target292@example.com
+Date: 2024-10-01
+Message-ID: <642752@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user72@example.com
+To: target972@example.com
+Date: 2024-11-11
+Message-ID: <753425@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Weekly status report,"From: user642@example.com
+To: target803@example.com
+Date: 2024-08-01
+Message-ID: <230272@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.
+
+    unsubscribe   ",ham,enron
+Server maintenance window,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Lunch tomorrow?,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Server maintenance window,Attached is your invoice for last month's consulting hours.,ham,enron
+Q3 budget review,The conference room is booked for 2pm. See you all there.,ham,enron
+Lunch tomorrow?,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Project timeline update,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Your invoice from last month,"From: user967@example.com
+To: target208@example.com
+Date: 2024-03-25
+Message-ID: <907557@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user576@mailer.biz
+To: target880@example.com
+Date: 2024-10-02
+Message-ID: <517754@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://192.168.1.5/login</body></html>",spam,spamassassin
+Q3 budget review,Here is this week's status report. No major blockers to report.,ham,enron
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user420@mailer.biz
+To: target657@example.com
+Date: 2024-06-04
+Message-ID: <200932@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://bit.ly/3xQ1z</body></html>",spam,spamassassin
+Project timeline update,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Re: Conference room booking,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Holiday schedule reminder,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Project timeline update,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Unusual sign-in activity detected,"From: user648@mailer.biz
+To: target449@example.com
+Date: 2024-12-07
+Message-ID: <246740@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. http://bit.ly/3xQ1z",phishing,ceas2008
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user393@example.com
+To: target711@example.com
+Date: 2024-03-23
+Message-ID: <324345@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Project timeline update,Here is this week's status report. No major blockers to report.,ham,enron
+Server maintenance window,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Lunch tomorrow?,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Your invoice from last month,Here is this week's status report. No major blockers to report.,ham,enron
+Re: Conference room booking,Here is this week's status report. No major blockers to report.,ham,enron
+Unusual sign-in activity detected,"From: user792@mailer.biz
+To: target692@example.com
+Date: 2024-12-08
+Message-ID: <869983@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe.",phishing,ceas2008
+Weekly status report,"From: user526@example.com
+To: target904@example.com
+Date: 2024-08-15
+Message-ID: <203398@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+Lose weight fast - guaranteed,"From: user331@mailer.biz
+To: target612@example.com
+Date: 2024-01-25
+Message-ID: <755744@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!",spam,spamassassin
+Final notice: update your billing information,"From: user352@mailer.biz
+To: target672@example.com
+Date: 2024-11-26
+Message-ID: <442157@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://accounts-update.example.org",phishing,ceas2008
+Weekly status report,"<html><body><p>Weekly status report</p><br>From: user411@example.com
+To: target410@example.com
+Date: 2024-08-09
+Message-ID: <976303@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Lose weight fast - guaranteed,"From: user462@mailer.biz
+To: target26@example.com
+Date: 2024-03-15
+Message-ID: <718990@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Re: Conference room booking,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Follow-up on our call,   ,ham,enron
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Server maintenance window,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user989@mailer.biz
+To: target462@example.com
+Date: 2024-07-06
+Message-ID: <292818@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Your invoice from last month,"From: user690@example.com
+To: target113@example.com
+Date: 2024-07-19
+Message-ID: <422623@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user35@mailer.biz
+To: target39@example.com
+Date: 2024-10-16
+Message-ID: <839122@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. https://accounts-update.example.org</body></html>",phishing,ceas2008
+Weekly status report,Here is this week's status report. No major blockers to report.,ham,enron
+Weekly status report,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Lunch tomorrow?,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user873@example.com
+To: target252@example.com
+Date: 2024-02-09
+Message-ID: <572700@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.</body></html>",ham,enron
+Hot singles in your area,CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!,spam,spamassassin
+Re: Conference room booking,"From: user985@example.com
+To: target691@example.com
+Date: 2024-10-19
+Message-ID: <121753@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Meeting notes from yesterday,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user784@mailer.biz
+To: target949@example.com
+Date: 2024-08-13
+Message-ID: <514306@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Server maintenance window,"From: user396@example.com
+To: target51@example.com
+Date: 2024-03-28
+Message-ID: <700056@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.
+
+    unsubscribe   ",ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user376@example.com
+To: target408@example.com
+Date: 2024-06-21
+Message-ID: <392227@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.</body></html>
+
+    unsubscribe   ",ham,enron
+Team offsite planning,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Follow-up on our call,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Follow-up on our call,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user463@example.com
+To: target39@example.com
+Date: 2024-01-12
+Message-ID: <972097@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Weekly status report,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Lunch tomorrow?,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+URGENT: limited time offer,"From: user107@mailer.biz
+To: target211@example.com
+Date: 2024-09-27
+Message-ID: <836879@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Q3 budget review,Here is this week's status report. No major blockers to report.,ham,enron
+Q3 budget review,Here is this week's status report. No major blockers to report.,ham,enron
+Team offsite planning,Attached is your invoice for last month's consulting hours.,ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user329@example.com
+To: target618@example.com
+Date: 2024-12-07
+Message-ID: <602278@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.</body></html>",ham,enron
+Hot singles in your area,"<html><body><p>Hot singles in your area</p><br>From: user416@mailer.biz
+To: target601@example.com
+Date: 2024-04-17
+Message-ID: <116112@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user197@mailer.biz
+To: target918@example.com
+Date: 2024-05-27
+Message-ID: <500112@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>",spam,spamassassin
+Server maintenance window,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user346@mailer.biz
+To: target807@example.com
+Date: 2024-12-02
+Message-ID: <525205@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. https://accounts-update.example.org</body></html>",phishing,ceas2008
+Holiday schedule reminder,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Re: Conference room booking,"From: user772@example.com
+To: target274@example.com
+Date: 2024-06-10
+Message-ID: <710754@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.
+
+    unsubscribe   ",ham,enron
+Meeting notes from yesterday,Here is this week's status report. No major blockers to report.,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user392@mailer.biz
+To: target649@example.com
+Date: 2024-04-22
+Message-ID: <835236@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Buy cheap meds online now,"From: user970@mailer.biz
+To: target120@example.com
+Date: 2024-09-09
+Message-ID: <664032@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user435@mailer.biz
+To: target620@example.com
+Date: 2024-01-19
+Message-ID: <622355@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com</body></html>",phishing,ceas2008
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user576@example.com
+To: target200@example.com
+Date: 2024-06-18
+Message-ID: <402620@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user109@mailer.biz
+To: target935@example.com
+Date: 2024-08-23
+Message-ID: <371577@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z</body></html>",phishing,ceas2008
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user927@example.com
+To: target544@example.com
+Date: 2024-04-21
+Message-ID: <344146@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Follow-up on our call,"From: user831@example.com
+To: target798@example.com
+Date: 2024-05-02
+Message-ID: <947935@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user411@example.com
+To: target925@example.com
+Date: 2024-01-06
+Message-ID: <497382@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Holiday schedule reminder,"From: user256@example.com
+To: target896@example.com
+Date: 2024-02-15
+Message-ID: <947272@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user322@mailer.biz
+To: target325@example.com
+Date: 2024-11-10
+Message-ID: <844943@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://free-gift-claim.example.net</body></html>",spam,spamassassin
+Project timeline update,"From: user212@example.com
+To: target834@example.com
+Date: 2024-04-26
+Message-ID: <162241@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Holiday schedule reminder,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user831@example.com
+To: target577@example.com
+Date: 2024-05-03
+Message-ID: <360247@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Team offsite planning,Attached is your invoice for last month's consulting hours.,ham,enron
+Meeting notes from yesterday,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Q3 budget review,   ,ham,enron
+Project timeline update,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user881@example.com
+To: target357@example.com
+Date: 2024-02-06
+Message-ID: <663356@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Server maintenance window,Here is this week's status report. No major blockers to report.,ham,enron
+Meeting notes from yesterday,Here is this week's status report. No major blockers to report.,ham,enron
+Q3 budget review,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Security alert from IT department,"Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://secure-verify-now.example.com",phishing,ceas2008
+Your invoice from last month,Here is this week's status report. No major blockers to report.,ham,enron
+Weekly status report,Here is this week's status report. No major blockers to report.,ham,enron
+Lunch tomorrow?,"From: user719@example.com
+To: target111@example.com
+Date: 2024-07-28
+Message-ID: <140605@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.
+
+    unsubscribe   ",ham,enron
+Meeting notes from yesterday,"From: user825@example.com
+To: target966@example.com
+Date: 2024-05-23
+Message-ID: <843826@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user286@mailer.biz
+To: target570@example.com
+Date: 2024-05-05
+Message-ID: <268746@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user236@example.com
+To: target254@example.com
+Date: 2024-08-12
+Message-ID: <262656@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+URGENT: limited time offer,"From: user985@mailer.biz
+To: target320@example.com
+Date: 2024-06-06
+Message-ID: <759726@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Follow-up on our call,"<html><body><p>Follow-up on our call</p><br>From: user507@example.com
+To: target872@example.com
+Date: 2024-06-06
+Message-ID: <611233@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Buy cheap meds online now,"From: user806@mailer.biz
+To: target404@example.com
+Date: 2024-03-05
+Message-ID: <452497@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! https://accounts-update.example.org",spam,spamassassin
+Lose weight fast - guaranteed,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://secure-verify-now.example.com",spam,spamassassin
+Lunch tomorrow?,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Project timeline update,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Server maintenance window,The conference room is booked for 2pm. See you all there.,ham,enron
+Action required: verify your password,,phishing,ceas2008
+Draft contract attached,Here is this week's status report. No major blockers to report.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user466@example.com
+To: target335@example.com
+Date: 2024-06-25
+Message-ID: <497542@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Project timeline update,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+You have WON a prize!!!,"Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Meeting notes from yesterday,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Server maintenance window,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Free gift card waiting,"From: user761@mailer.biz
+To: target586@example.com
+Date: 2024-10-18
+Message-ID: <650744@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.
+
+    unsubscribe   ",spam,spamassassin
+Weekly status report,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Your invoice from last month,The conference room is booked for 2pm. See you all there.,ham,enron
+Your payment could not be processed,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://192.168.1.5/login,phishing,ceas2008
+Team offsite planning,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user675@example.com
+To: target442@example.com
+Date: 2024-06-14
+Message-ID: <531071@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Your invoice from last month,"From: user815@example.com
+To: target893@example.com
+Date: 2024-04-08
+Message-ID: <124813@mail.example.com>
+
+Here is this week's status report. No major blockers to report.",ham,enron
+Lunch tomorrow?,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user358@example.com
+To: target574@example.com
+Date: 2024-12-09
+Message-ID: <401769@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user762@mailer.biz
+To: target258@example.com
+Date: 2024-04-20
+Message-ID: <918859@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Q3 budget review,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Q3 budget review,   ,ham,enron
+Lunch tomorrow?,"From: user425@example.com
+To: target48@example.com
+Date: 2024-11-27
+Message-ID: <804791@mail.example.com>
+
+Here is this week's status report. No major blockers to report.",ham,enron
+Holiday schedule reminder,"From: user345@example.com
+To: target685@example.com
+Date: 2024-11-26
+Message-ID: <523956@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Project timeline update,"From: user467@example.com
+To: target383@example.com
+Date: 2024-01-20
+Message-ID: <768706@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Q3 budget review,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user446@mailer.biz
+To: target258@example.com
+Date: 2024-06-20
+Message-ID: <944264@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user477@example.com
+To: target887@example.com
+Date: 2024-05-25
+Message-ID: <985885@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>
+
+    unsubscribe   ",ham,enron
+Your payment could not be processed,"Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com",phishing,ceas2008
+Project timeline update,"From: user617@example.com
+To: target157@example.com
+Date: 2024-11-03
+Message-ID: <285751@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+You have WON a prize!!!,"Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Lose weight fast - guaranteed,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://accounts-update.example.org",spam,spamassassin
+Holiday schedule reminder,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Unusual sign-in activity detected,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. https://accounts-update.example.org,phishing,ceas2008
+Project timeline update,Here is this week's status report. No major blockers to report.,ham,enron
+Server maintenance window,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Action required: verify your password,"<html><body><p>Action required: verify your password</p><br>From: user344@mailer.biz
+To: target65@example.com
+Date: 2024-02-09
+Message-ID: <248097@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.</body></html>",phishing,ceas2008
+Unusual sign-in activity detected,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.,phishing,ceas2008
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user932@mailer.biz
+To: target606@example.com
+Date: 2024-12-05
+Message-ID: <791174@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. http://192.168.1.5/login</body></html>",phishing,ceas2008
+Action required: verify your password,"<html><body><p>Action required: verify your password</p><br>From: user373@mailer.biz
+To: target402@example.com
+Date: 2024-03-23
+Message-ID: <797492@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. https://secure-verify-now.example.com</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Project timeline update,Attached is your invoice for last month's consulting hours.,ham,enron
+Q3 budget review,Here is this week's status report. No major blockers to report.,ham,enron
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user281@example.com
+To: target215@example.com
+Date: 2024-03-19
+Message-ID: <901619@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Make $5000 a week from home,"From: user237@mailer.biz
+To: target611@example.com
+Date: 2024-04-08
+Message-ID: <820767@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://bit.ly/3xQ1z",spam,spamassassin
+Make $5000 a week from home,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Meeting notes from yesterday,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user206@mailer.biz
+To: target809@example.com
+Date: 2024-12-20
+Message-ID: <384459@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://bit.ly/3xQ1z</body></html>",spam,spamassassin
+Server maintenance window,"From: user136@example.com
+To: target806@example.com
+Date: 2024-09-12
+Message-ID: <656639@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.
+
+    unsubscribe   ",ham,enron
+Lunch tomorrow?,"From: user848@example.com
+To: target869@example.com
+Date: 2024-02-21
+Message-ID: <999908@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.
+
+    unsubscribe   ",ham,enron
+Team offsite planning,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user596@example.com
+To: target378@example.com
+Date: 2024-08-18
+Message-ID: <656711@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Follow-up on our call,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Free gift card waiting,"From: user654@mailer.biz
+To: target519@example.com
+Date: 2024-07-24
+Message-ID: <294546@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Your invoice from last month,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Free gift card waiting,"From: user889@mailer.biz
+To: target905@example.com
+Date: 2024-11-13
+Message-ID: <342397@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!",spam,spamassassin
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user498@mailer.biz
+To: target197@example.com
+Date: 2024-02-02
+Message-ID: <698749@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!</body></html>",spam,spamassassin
+Hot singles in your area,"<html><body><p>Hot singles in your area</p><br>From: user764@mailer.biz
+To: target957@example.com
+Date: 2024-11-24
+Message-ID: <387096@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://192.168.1.5/login</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user6@mailer.biz
+To: target623@example.com
+Date: 2024-08-08
+Message-ID: <327408@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://free-gift-claim.example.net</body></html>",spam,spamassassin
+Follow-up on our call,"From: user721@example.com
+To: target300@example.com
+Date: 2024-05-19
+Message-ID: <380329@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user204@example.com
+To: target734@example.com
+Date: 2024-11-23
+Message-ID: <671412@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.</body></html>",ham,enron
+Lunch tomorrow?,"From: user272@example.com
+To: target873@example.com
+Date: 2024-02-03
+Message-ID: <265271@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user142@mailer.biz
+To: target896@example.com
+Date: 2024-12-13
+Message-ID: <293929@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.</body></html>",phishing,ceas2008
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Team offsite planning,"From: user487@example.com
+To: target970@example.com
+Date: 2024-09-06
+Message-ID: <377932@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+Server maintenance window,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Project timeline update,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Action required: verify your password,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://192.168.1.5/login,phishing,ceas2008
+URGENT: limited time offer,"<html><body><p>URGENT: limited time offer</p><br>From: user557@mailer.biz
+To: target916@example.com
+Date: 2024-09-16
+Message-ID: <785672@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Hot singles in your area,"From: user816@mailer.biz
+To: target818@example.com
+Date: 2024-12-10
+Message-ID: <826596@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!",spam,spamassassin
+Weekly status report,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user473@mailer.biz
+To: target867@example.com
+Date: 2024-03-10
+Message-ID: <905245@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. https://accounts-update.example.org</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Team offsite planning,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Lunch tomorrow?,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+You have WON a prize!!!,"<html><body><p>You have WON a prize!!!</p><br>From: user323@mailer.biz
+To: target505@example.com
+Date: 2024-10-28
+Message-ID: <388078@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://accounts-update.example.org</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Meeting notes from yesterday,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Weekly status report,"From: user238@example.com
+To: target859@example.com
+Date: 2024-02-11
+Message-ID: <734565@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Server maintenance window,"From: user678@example.com
+To: target745@example.com
+Date: 2024-04-16
+Message-ID: <462544@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user600@example.com
+To: target302@example.com
+Date: 2024-08-28
+Message-ID: <223502@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user183@mailer.biz
+To: target488@example.com
+Date: 2024-06-12
+Message-ID: <329183@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!</body></html>",spam,spamassassin
+Weekly status report,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Re: Conference room booking,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Your invoice from last month,"From: user436@example.com
+To: target105@example.com
+Date: 2024-12-27
+Message-ID: <785424@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.
+
+    unsubscribe   ",ham,enron
+Draft contract attached,Attached is your invoice for last month's consulting hours.,ham,enron
+Re: Conference room booking,"From: user99@example.com
+To: target51@example.com
+Date: 2024-07-19
+Message-ID: <676363@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.
+
+    unsubscribe   ",ham,enron
+Holiday schedule reminder,Attached is your invoice for last month's consulting hours.,ham,enron
+Action required: verify your password,"<html><body><p>Action required: verify your password</p><br>From: user535@mailer.biz
+To: target501@example.com
+Date: 2024-04-19
+Message-ID: <596489@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.</body></html>",phishing,ceas2008
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user306@example.com
+To: target858@example.com
+Date: 2024-10-19
+Message-ID: <791998@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Meeting notes from yesterday,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Q3 budget review,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Your invoice from last month,Attached is your invoice for last month's consulting hours.,ham,enron
+Hot singles in your area,"From: user182@mailer.biz
+To: target488@example.com
+Date: 2024-10-20
+Message-ID: <140932@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!",spam,spamassassin
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user33@mailer.biz
+To: target339@example.com
+Date: 2024-02-27
+Message-ID: <887029@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.</body></html>",spam,spamassassin
+Meeting notes from yesterday,"From: user883@example.com
+To: target837@example.com
+Date: 2024-02-15
+Message-ID: <223088@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.
+
+    unsubscribe   ",ham,enron
+Q3 budget review,"From: user627@example.com
+To: target624@example.com
+Date: 2024-01-10
+Message-ID: <798435@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Draft contract attached,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Team offsite planning,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user809@example.com
+To: target808@example.com
+Date: 2024-04-19
+Message-ID: <439498@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>
+
+    unsubscribe   ",ham,enron
+Server maintenance window,"From: user856@example.com
+To: target878@example.com
+Date: 2024-06-05
+Message-ID: <195643@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Weekly status report,"From: user793@example.com
+To: target868@example.com
+Date: 2024-12-03
+Message-ID: <866437@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Server maintenance window,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Security alert from IT department,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.,phishing,ceas2008
+Meeting notes from yesterday,The conference room is booked for 2pm. See you all there.,ham,enron
+Security alert from IT department,"From: user445@mailer.biz
+To: target594@example.com
+Date: 2024-04-19
+Message-ID: <256206@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.",phishing,ceas2008
+Project timeline update,"From: user852@example.com
+To: target88@example.com
+Date: 2024-02-14
+Message-ID: <201255@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Weekly status report,"From: user601@example.com
+To: target722@example.com
+Date: 2024-03-25
+Message-ID: <216308@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Security alert from IT department,"<html><body><p>Security alert from IT department</p><br>From: user271@mailer.biz
+To: target774@example.com
+Date: 2024-02-02
+Message-ID: <275741@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com http://free-gift-claim.example.net</body></html>",phishing,ceas2008
+Holiday schedule reminder,"From: user152@example.com
+To: target672@example.com
+Date: 2024-12-01
+Message-ID: <887443@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Your invoice from last month,"From: user565@example.com
+To: target149@example.com
+Date: 2024-07-07
+Message-ID: <728492@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Your account has been suspended,"From: user760@mailer.biz
+To: target680@example.com
+Date: 2024-11-03
+Message-ID: <817303@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.",phishing,ceas2008
+Buy cheap meds online now,"From: user183@mailer.biz
+To: target166@example.com
+Date: 2024-11-10
+Message-ID: <740774@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!",spam,spamassassin
+Server maintenance window,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Holiday schedule reminder,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user136@example.com
+To: target741@example.com
+Date: 2024-10-19
+Message-ID: <595631@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Action required: verify your password,"From: user596@mailer.biz
+To: target42@example.com
+Date: 2024-03-04
+Message-ID: <929478@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.",phishing,ceas2008
+Follow-up on our call,Attached is your invoice for last month's consulting hours.,ham,enron
+Server maintenance window,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user510@example.com
+To: target764@example.com
+Date: 2024-11-01
+Message-ID: <207629@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>
+
+    unsubscribe   ",ham,enron
+Draft contract attached,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Server maintenance window,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Holiday schedule reminder,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Project timeline update,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Q3 budget review,"From: user301@example.com
+To: target850@example.com
+Date: 2024-11-20
+Message-ID: <479201@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Weekly status report,"<html><body><p>Weekly status report</p><br>From: user778@example.com
+To: target675@example.com
+Date: 2024-04-01
+Message-ID: <457938@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user32@example.com
+To: target815@example.com
+Date: 2024-04-10
+Message-ID: <134283@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Your invoice from last month,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Make $5000 a week from home,"From: user688@mailer.biz
+To: target819@example.com
+Date: 2024-10-28
+Message-ID: <157030@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!",spam,spamassassin
+Weekly status report,"From: user402@example.com
+To: target602@example.com
+Date: 2024-02-12
+Message-ID: <469082@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user411@example.com
+To: target382@example.com
+Date: 2024-11-21
+Message-ID: <776001@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user892@example.com
+To: target392@example.com
+Date: 2024-10-22
+Message-ID: <352528@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user245@example.com
+To: target430@example.com
+Date: 2024-11-26
+Message-ID: <753064@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.</body></html>
+
+    unsubscribe   ",ham,enron
+Weekly status report,,ham,enron
+Project timeline update,"From: user745@example.com
+To: target473@example.com
+Date: 2024-12-07
+Message-ID: <559753@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Weekly status report,"From: user882@example.com
+To: target860@example.com
+Date: 2024-10-14
+Message-ID: <483162@mail.example.com>
+
+Here is this week's status report. No major blockers to report.
+
+    unsubscribe   ",ham,enron
+Q3 budget review,The conference room is booked for 2pm. See you all there.,ham,enron
+Your invoice from last month,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Re: Conference room booking,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Q3 budget review,Here is this week's status report. No major blockers to report.,ham,enron
+Q3 budget review,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Lose weight fast - guaranteed,"From: user227@mailer.biz
+To: target157@example.com
+Date: 2024-01-22
+Message-ID: <867115@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.",spam,spamassassin
+Your invoice from last month,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Project timeline update,"From: user87@example.com
+To: target255@example.com
+Date: 2024-09-20
+Message-ID: <729153@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.
+
+    unsubscribe   ",ham,enron
+Re: Conference room booking,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Hot singles in your area,   ,spam,spamassassin
+Security alert from IT department,"Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://secure-verify-now.example.com",phishing,ceas2008
+Project timeline update,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Lunch tomorrow?,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Lunch tomorrow?,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+URGENT: limited time offer,"From: user194@mailer.biz
+To: target422@example.com
+Date: 2024-09-14
+Message-ID: <513927@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://free-gift-claim.example.net
+
+    unsubscribe   ",spam,spamassassin
+Your invoice from last month,Attached is your invoice for last month's consulting hours.,ham,enron
+Weekly status report,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Security alert from IT department,Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe.,phishing,ceas2008
+Your account has been suspended,"From: user856@mailer.biz
+To: target606@example.com
+Date: 2024-02-27
+Message-ID: <957179@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. http://free-gift-claim.example.net",phishing,ceas2008
+Your account has been suspended,"Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com",phishing,ceas2008
+Team offsite planning,"From: user990@example.com
+To: target133@example.com
+Date: 2024-07-17
+Message-ID: <158104@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user880@example.com
+To: target884@example.com
+Date: 2024-01-08
+Message-ID: <148215@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user760@mailer.biz
+To: target926@example.com
+Date: 2024-12-12
+Message-ID: <322022@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. https://accounts-update.example.org</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Free gift card waiting,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org",spam,spamassassin
+Meeting notes from yesterday,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Holiday schedule reminder,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Hot singles in your area,"<html><body><p>Hot singles in your area</p><br>From: user885@mailer.biz
+To: target676@example.com
+Date: 2024-02-24
+Message-ID: <340932@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://192.168.1.5/login</body></html>",spam,spamassassin
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user688@example.com
+To: target468@example.com
+Date: 2024-06-12
+Message-ID: <965401@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Meeting notes from yesterday,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Server maintenance window,The conference room is booked for 2pm. See you all there.,ham,enron
+Lunch tomorrow?,Here is this week's status report. No major blockers to report.,ham,enron
+Weekly status report,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Re: Conference room booking,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Weekly status report,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Re: Conference room booking,"From: user966@example.com
+To: target581@example.com
+Date: 2024-12-11
+Message-ID: <322955@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user980@example.com
+To: target576@example.com
+Date: 2024-09-11
+Message-ID: <802559@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Project timeline update,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Server maintenance window,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Weekly status report,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Project timeline update,The conference room is booked for 2pm. See you all there.,ham,enron
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user982@mailer.biz
+To: target628@example.com
+Date: 2024-06-12
+Message-ID: <292847@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://192.168.1.5/login</body></html>",spam,spamassassin
+Unusual sign-in activity detected,"From: user456@mailer.biz
+To: target181@example.com
+Date: 2024-05-13
+Message-ID: <172988@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. https://accounts-update.example.org",phishing,ceas2008
+Best deal of the year - act now,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://accounts-update.example.org",spam,spamassassin
+Draft contract attached,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Your invoice from last month,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Q3 budget review,Attached is your invoice for last month's consulting hours.,ham,enron
+Free gift card waiting,"From: user215@mailer.biz
+To: target713@example.com
+Date: 2024-04-20
+Message-ID: <161010@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org",spam,spamassassin
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user355@example.com
+To: target652@example.com
+Date: 2024-12-01
+Message-ID: <451291@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user8@mailer.biz
+To: target184@example.com
+Date: 2024-02-23
+Message-ID: <783415@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. https://secure-verify-now.example.com</body></html>",phishing,ceas2008
+Project timeline update,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Re: Conference room booking,The conference room is booked for 2pm. See you all there.,ham,enron
+Team offsite planning,Attached is your invoice for last month's consulting hours.,ham,enron
+Action required: verify your password,Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. https://accounts-update.example.org,phishing,ceas2008
+Draft contract attached,The conference room is booked for 2pm. See you all there.,ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user566@example.com
+To: target77@example.com
+Date: 2024-03-01
+Message-ID: <528361@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user624@example.com
+To: target698@example.com
+Date: 2024-12-13
+Message-ID: <140666@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Lunch tomorrow?,The conference room is booked for 2pm. See you all there.,ham,enron
+Your invoice from last month,The conference room is booked for 2pm. See you all there.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user724@example.com
+To: target290@example.com
+Date: 2024-12-28
+Message-ID: <576086@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>
+
+    unsubscribe   ",ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user145@mailer.biz
+To: target966@example.com
+Date: 2024-12-26
+Message-ID: <397027@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://192.168.1.5/login</body></html>",spam,spamassassin
+Re: Conference room booking,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Project timeline update,"From: user933@example.com
+To: target745@example.com
+Date: 2024-02-03
+Message-ID: <506951@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Server maintenance window,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Holiday schedule reminder,"From: user386@example.com
+To: target189@example.com
+Date: 2024-09-16
+Message-ID: <352673@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Team offsite planning,The conference room is booked for 2pm. See you all there.,ham,enron
+Your account has been suspended,"From: user831@mailer.biz
+To: target856@example.com
+Date: 2024-12-22
+Message-ID: <521536@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. https://accounts-update.example.org",phishing,ceas2008
+Action required: verify your password,"This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.",phishing,ceas2008
+Holiday schedule reminder,"From: user205@example.com
+To: target749@example.com
+Date: 2024-06-01
+Message-ID: <437864@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Make $5000 a week from home,"From: user786@mailer.biz
+To: target7@example.com
+Date: 2024-02-22
+Message-ID: <449472@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org
+
+    unsubscribe   ",spam,spamassassin
+Weekly status report,Attached is your invoice for last month's consulting hours.,ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user333@example.com
+To: target864@example.com
+Date: 2024-01-08
+Message-ID: <961722@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Re: Conference room booking,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Team offsite planning,The conference room is booked for 2pm. See you all there.,ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user358@example.com
+To: target903@example.com
+Date: 2024-02-08
+Message-ID: <487477@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.</body></html>",ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user677@example.com
+To: target430@example.com
+Date: 2024-10-25
+Message-ID: <116405@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>
+
+    unsubscribe   ",ham,enron
+Weekly status report,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Final notice: update your billing information,"This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.",phishing,ceas2008
+Follow-up on our call,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Your account has been suspended,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z,phishing,ceas2008
+Server maintenance window,Attached is your invoice for last month's consulting hours.,ham,enron
+Team offsite planning,The conference room is booked for 2pm. See you all there.,ham,enron
+Project timeline update,"From: user835@example.com
+To: target132@example.com
+Date: 2024-02-13
+Message-ID: <789461@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Your payment could not be processed,Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. http://free-gift-claim.example.net,phishing,ceas2008
+You have WON a prize!!!,Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.,spam,spamassassin
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user640@example.com
+To: target649@example.com
+Date: 2024-10-18
+Message-ID: <846746@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Lunch tomorrow?,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Hot singles in your area,"<html><body><p>Hot singles in your area</p><br>From: user690@mailer.biz
+To: target122@example.com
+Date: 2024-09-01
+Message-ID: <772580@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.</body></html>",spam,spamassassin
+You have WON a prize!!!,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org",spam,spamassassin
+Make $5000 a week from home,"From: user523@mailer.biz
+To: target93@example.com
+Date: 2024-07-12
+Message-ID: <626560@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://192.168.1.5/login",spam,spamassassin
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Your invoice from last month,,ham,enron
+Server maintenance window,"From: user255@example.com
+To: target427@example.com
+Date: 2024-12-11
+Message-ID: <384434@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Team offsite planning,"From: user353@example.com
+To: target965@example.com
+Date: 2024-11-22
+Message-ID: <499669@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Q3 budget review,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Draft contract attached,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Re: Conference room booking,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Re: Conference room booking,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user627@example.com
+To: target293@example.com
+Date: 2024-12-16
+Message-ID: <309902@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Security alert from IT department,"<html><body><p>Security alert from IT department</p><br>From: user666@mailer.biz
+To: target73@example.com
+Date: 2024-05-18
+Message-ID: <583367@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. http://free-gift-claim.example.net</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Re: Conference room booking,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Q3 budget review,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user164@example.com
+To: target339@example.com
+Date: 2024-09-14
+Message-ID: <584498@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Server maintenance window,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Q3 budget review,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user105@example.com
+To: target824@example.com
+Date: 2024-03-04
+Message-ID: <112537@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+URGENT: limited time offer,Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. http://free-gift-claim.example.net,spam,spamassassin
+Re: Conference room booking,"From: user139@example.com
+To: target785@example.com
+Date: 2024-11-24
+Message-ID: <777255@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Holiday schedule reminder,Here is this week's status report. No major blockers to report.,ham,enron
+Lunch tomorrow?,The conference room is booked for 2pm. See you all there.,ham,enron
+Weekly status report,"<html><body><p>Weekly status report</p><br>From: user891@example.com
+To: target934@example.com
+Date: 2024-06-20
+Message-ID: <556068@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user900@example.com
+To: target581@example.com
+Date: 2024-02-03
+Message-ID: <867460@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>
+
+    unsubscribe   ",ham,enron
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user345@example.com
+To: target898@example.com
+Date: 2024-10-05
+Message-ID: <726258@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Make $5000 a week from home,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org",spam,spamassassin
+Unusual sign-in activity detected,"<html><body><p>Unusual sign-in activity detected</p><br>From: user134@mailer.biz
+To: target30@example.com
+Date: 2024-08-22
+Message-ID: <152906@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. http://bit.ly/3xQ1z</body></html>",phishing,ceas2008
+Re: Conference room booking,"From: user99@example.com
+To: target51@example.com
+Date: 2024-07-19
+Message-ID: <676363@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.
+
+    unsubscribe   ",ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user284@example.com
+To: target656@example.com
+Date: 2024-06-28
+Message-ID: <390334@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Draft contract attached,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Q3 budget review,"From: user127@example.com
+To: target604@example.com
+Date: 2024-12-13
+Message-ID: <468611@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+You have WON a prize!!!,"Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!",spam,spamassassin
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user946@example.com
+To: target127@example.com
+Date: 2024-11-01
+Message-ID: <353690@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Weekly status report,Here is this week's status report. No major blockers to report.,ham,enron
+Project timeline update,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Holiday schedule reminder,"From: user664@example.com
+To: target350@example.com
+Date: 2024-01-28
+Message-ID: <540463@mail.example.com>
+
+Here is this week's status report. No major blockers to report.
+
+    unsubscribe   ",ham,enron
+Meeting notes from yesterday,"From: user998@example.com
+To: target195@example.com
+Date: 2024-07-23
+Message-ID: <681028@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+Your payment could not be processed,"From: user656@mailer.biz
+To: target278@example.com
+Date: 2024-09-15
+Message-ID: <532046@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://192.168.1.5/login
+
+    unsubscribe   ",phishing,ceas2008
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user777@example.com
+To: target912@example.com
+Date: 2024-01-01
+Message-ID: <993385@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Team offsite planning,"From: user628@example.com
+To: target327@example.com
+Date: 2024-03-13
+Message-ID: <746447@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.
+
+    unsubscribe   ",ham,enron
+Weekly status report,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Make $5000 a week from home,"From: user748@mailer.biz
+To: target145@example.com
+Date: 2024-12-23
+Message-ID: <800722@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org",spam,spamassassin
+Follow-up on our call,"From: user402@example.com
+To: target303@example.com
+Date: 2024-11-02
+Message-ID: <921875@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Server maintenance window,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Draft contract attached,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Your invoice from last month,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Project timeline update,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+URGENT: limited time offer,"<html><body><p>URGENT: limited time offer</p><br>From: user798@mailer.biz
+To: target110@example.com
+Date: 2024-02-03
+Message-ID: <808640@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Follow-up on our call,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Holiday schedule reminder,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Q3 budget review,Attached is your invoice for last month's consulting hours.,ham,enron
+Holiday schedule reminder,The conference room is booked for 2pm. See you all there.,ham,enron
+Follow-up on our call,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Project timeline update,The conference room is booked for 2pm. See you all there.,ham,enron
+Your invoice from last month,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Hot singles in your area,"<html><body><p>Hot singles in your area</p><br>From: user820@mailer.biz
+To: target983@example.com
+Date: 2024-12-05
+Message-ID: <595962@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.</body></html>",spam,spamassassin
+Lose weight fast - guaranteed,"From: user548@mailer.biz
+To: target9@example.com
+Date: 2024-12-16
+Message-ID: <892170@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. http://bit.ly/3xQ1z",spam,spamassassin
+Project timeline update,The conference room is booked for 2pm. See you all there.,ham,enron
+Lunch tomorrow?,Attached is your invoice for last month's consulting hours.,ham,enron
+Free gift card waiting,CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!,spam,spamassassin
+Re: Conference room booking,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Team offsite planning,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+You have WON a prize!!!,Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. http://192.168.1.5/login,spam,spamassassin
+Holiday schedule reminder,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Team offsite planning,"From: user895@example.com
+To: target482@example.com
+Date: 2024-01-21
+Message-ID: <505674@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.
+
+    unsubscribe   ",ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user282@example.com
+To: target251@example.com
+Date: 2024-04-05
+Message-ID: <872246@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Hot singles in your area,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Project timeline update,"From: user58@example.com
+To: target239@example.com
+Date: 2024-10-08
+Message-ID: <120896@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.
+
+    unsubscribe   ",ham,enron
+Your payment could not be processed,"From: user837@mailer.biz
+To: target143@example.com
+Date: 2024-10-25
+Message-ID: <767033@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.",phishing,ceas2008
+Lunch tomorrow?,Attached is your invoice for last month's consulting hours.,ham,enron
+Re: Conference room booking,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Team offsite planning,Here is this week's status report. No major blockers to report.,ham,enron
+Meeting notes from yesterday,The conference room is booked for 2pm. See you all there.,ham,enron
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user109@mailer.biz
+To: target935@example.com
+Date: 2024-08-23
+Message-ID: <371577@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z</body></html>",phishing,ceas2008
+Lunch tomorrow?,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Lunch tomorrow?,The conference room is booked for 2pm. See you all there.,ham,enron
+Re: Conference room booking,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user164@mailer.biz
+To: target184@example.com
+Date: 2024-10-19
+Message-ID: <791444@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>",spam,spamassassin
+URGENT: limited time offer,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://192.168.1.5/login",spam,spamassassin
+Draft contract attached,"From: user29@example.com
+To: target119@example.com
+Date: 2024-05-06
+Message-ID: <708792@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.
+
+    unsubscribe   ",ham,enron
+Holiday schedule reminder,Here is this week's status report. No major blockers to report.,ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user52@example.com
+To: target298@example.com
+Date: 2024-07-28
+Message-ID: <745270@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Weekly status report,   ,ham,enron
+Server maintenance window,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Meeting notes from yesterday,"From: user442@example.com
+To: target150@example.com
+Date: 2024-04-17
+Message-ID: <532067@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+Buy cheap meds online now,"From: user924@mailer.biz
+To: target618@example.com
+Date: 2024-09-27
+Message-ID: <101258@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Action required: verify your password,"<html><body><p>Action required: verify your password</p><br>From: user274@mailer.biz
+To: target516@example.com
+Date: 2024-11-14
+Message-ID: <390607@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://secure-verify-now.example.com</body></html>",phishing,ceas2008
+Unusual sign-in activity detected,"<html><body><p>Unusual sign-in activity detected</p><br>From: user411@mailer.biz
+To: target57@example.com
+Date: 2024-11-21
+Message-ID: <195071@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://secure-verify-now.example.com</body></html>",phishing,ceas2008
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user701@mailer.biz
+To: target724@example.com
+Date: 2024-01-06
+Message-ID: <508004@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Draft contract attached,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Follow-up on our call,Here is this week's status report. No major blockers to report.,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user572@mailer.biz
+To: target762@example.com
+Date: 2024-07-27
+Message-ID: <486996@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.</body></html>",spam,spamassassin
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user829@example.com
+To: target116@example.com
+Date: 2024-06-06
+Message-ID: <866634@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>
+
+    unsubscribe   ",ham,enron
+Re: Conference room booking,"From: user926@example.com
+To: target665@example.com
+Date: 2024-03-02
+Message-ID: <515594@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user686@example.com
+To: target98@example.com
+Date: 2024-03-05
+Message-ID: <600646@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>
+
+    unsubscribe   ",ham,enron
+Re: Conference room booking,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Re: Conference room booking,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Your invoice from last month,"From: user815@example.com
+To: target361@example.com
+Date: 2024-03-05
+Message-ID: <855303@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.
+
+    unsubscribe   ",ham,enron
+Team offsite planning,"From: user92@example.com
+To: target363@example.com
+Date: 2024-09-03
+Message-ID: <725920@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Team offsite planning,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Your invoice from last month,,ham,enron
+Your invoice from last month,"From: user906@example.com
+To: target89@example.com
+Date: 2024-02-10
+Message-ID: <517500@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Follow-up on our call,"From: user309@example.com
+To: target969@example.com
+Date: 2024-04-25
+Message-ID: <243901@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.
+
+    unsubscribe   ",ham,enron
+Meeting notes from yesterday,"From: user825@example.com
+To: target966@example.com
+Date: 2024-05-23
+Message-ID: <843826@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+You have WON a prize!!!,"From: user669@mailer.biz
+To: target358@example.com
+Date: 2024-01-05
+Message-ID: <995304@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! https://accounts-update.example.org
+
+    unsubscribe   ",spam,spamassassin
+Follow-up on our call,The conference room is booked for 2pm. See you all there.,ham,enron
+Server maintenance window,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user591@example.com
+To: target195@example.com
+Date: 2024-05-02
+Message-ID: <843215@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user434@mailer.biz
+To: target490@example.com
+Date: 2024-09-02
+Message-ID: <626883@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://192.168.1.5/login</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Draft contract attached,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Q3 budget review,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Buy cheap meds online now,"Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Server maintenance window,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Follow-up on our call,"<html><body><p>Follow-up on our call</p><br>From: user214@example.com
+To: target891@example.com
+Date: 2024-06-10
+Message-ID: <116078@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user12@mailer.biz
+To: target481@example.com
+Date: 2024-08-17
+Message-ID: <592025@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://secure-verify-now.example.com</body></html>",phishing,ceas2008
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user586@example.com
+To: target368@example.com
+Date: 2024-10-10
+Message-ID: <833247@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Holiday schedule reminder,   ,ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user559@mailer.biz
+To: target220@example.com
+Date: 2024-07-25
+Message-ID: <676967@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>",spam,spamassassin
+Weekly status report,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Your invoice from last month,"From: user545@example.com
+To: target565@example.com
+Date: 2024-07-01
+Message-ID: <117538@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.
+
+    unsubscribe   ",ham,enron
+Your account has been suspended,We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. http://free-gift-claim.example.net,phishing,ceas2008
+Draft contract attached,The conference room is booked for 2pm. See you all there.,ham,enron
+Project timeline update,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Draft contract attached,The conference room is booked for 2pm. See you all there.,ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user713@example.com
+To: target744@example.com
+Date: 2024-01-28
+Message-ID: <267138@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Your invoice from last month,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Project timeline update,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Free gift card waiting,"From: user514@mailer.biz
+To: target283@example.com
+Date: 2024-01-21
+Message-ID: <370196@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Make $5000 a week from home,"From: user583@mailer.biz
+To: target940@example.com
+Date: 2024-04-24
+Message-ID: <180951@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!
+
+    unsubscribe   ",spam,spamassassin
+You have WON a prize!!!,   ,spam,spamassassin
+Q3 budget review,"From: user794@example.com
+To: target557@example.com
+Date: 2024-06-18
+Message-ID: <962570@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Final notice: update your billing information,"<html><body><p>Final notice: update your billing information</p><br>From: user431@mailer.biz
+To: target455@example.com
+Date: 2024-12-21
+Message-ID: <122525@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z</body></html>",phishing,ceas2008
+Holiday schedule reminder,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Server maintenance window,"From: user659@example.com
+To: target988@example.com
+Date: 2024-01-02
+Message-ID: <602248@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Weekly status report,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Lose weight fast - guaranteed,"From: user730@mailer.biz
+To: target53@example.com
+Date: 2024-07-10
+Message-ID: <424553@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!
+
+    unsubscribe   ",spam,spamassassin
+Make $5000 a week from home,"From: user558@mailer.biz
+To: target584@example.com
+Date: 2024-03-13
+Message-ID: <785428@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org",spam,spamassassin
+Best deal of the year - act now,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org",spam,spamassassin
+You have WON a prize!!!,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://secure-verify-now.example.com",spam,spamassassin
+Your invoice from last month,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Server maintenance window,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Q3 budget review,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Lunch tomorrow?,The conference room is booked for 2pm. See you all there.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user837@example.com
+To: target4@example.com
+Date: 2024-12-07
+Message-ID: <706403@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Action required: verify your password,We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. https://secure-verify-now.example.com,phishing,ceas2008
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user653@mailer.biz
+To: target218@example.com
+Date: 2024-01-21
+Message-ID: <310960@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Meeting notes from yesterday,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Re: Conference room booking,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Action required: verify your password,Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. http://bit.ly/3xQ1z,phishing,ceas2008
+Weekly status report,"From: user748@example.com
+To: target98@example.com
+Date: 2024-06-14
+Message-ID: <427704@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user790@example.com
+To: target141@example.com
+Date: 2024-01-18
+Message-ID: <265613@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user530@mailer.biz
+To: target783@example.com
+Date: 2024-10-26
+Message-ID: <827632@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.</body></html>",spam,spamassassin
+Make $5000 a week from home,,spam,spamassassin
+URGENT: limited time offer,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://accounts-update.example.org",spam,spamassassin
+Make $5000 a week from home,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://free-gift-claim.example.net",spam,spamassassin
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user618@mailer.biz
+To: target202@example.com
+Date: 2024-12-07
+Message-ID: <408467@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://bit.ly/3xQ1z</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Re: Conference room booking,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Server maintenance window,"From: user856@example.com
+To: target878@example.com
+Date: 2024-06-05
+Message-ID: <195643@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user289@example.com
+To: target620@example.com
+Date: 2024-04-23
+Message-ID: <459536@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Your payment could not be processed,We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.,phishing,ceas2008
+Q3 budget review,Attached is your invoice for last month's consulting hours.,ham,enron
+Free gift card waiting,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://secure-verify-now.example.com",spam,spamassassin
+Project timeline update,"From: user880@example.com
+To: target149@example.com
+Date: 2024-03-18
+Message-ID: <362829@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,Attached is your invoice for last month's consulting hours.,ham,enron
+Your invoice from last month,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Server maintenance window,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Lunch tomorrow?,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Make $5000 a week from home,"From: user325@mailer.biz
+To: target266@example.com
+Date: 2024-09-19
+Message-ID: <753518@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://192.168.1.5/login",spam,spamassassin
+Team offsite planning,"From: user154@example.com
+To: target152@example.com
+Date: 2024-10-19
+Message-ID: <710981@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Lose weight fast - guaranteed,"From: user828@mailer.biz
+To: target324@example.com
+Date: 2024-07-06
+Message-ID: <105066@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://192.168.1.5/login",spam,spamassassin
+Holiday schedule reminder,Here is this week's status report. No major blockers to report.,ham,enron
+Team offsite planning,"From: user141@example.com
+To: target731@example.com
+Date: 2024-06-26
+Message-ID: <596756@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.
+
+    unsubscribe   ",ham,enron
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Your invoice from last month,Attached is your invoice for last month's consulting hours.,ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user568@example.com
+To: target236@example.com
+Date: 2024-10-08
+Message-ID: <107540@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+You have WON a prize!!!,"From: user312@mailer.biz
+To: target80@example.com
+Date: 2024-04-17
+Message-ID: <201836@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://192.168.1.5/login
+
+    unsubscribe   ",spam,spamassassin
+Your invoice from last month,"From: user70@example.com
+To: target15@example.com
+Date: 2024-05-07
+Message-ID: <141761@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+Final notice: update your billing information,"From: user545@mailer.biz
+To: target695@example.com
+Date: 2024-09-10
+Message-ID: <573933@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.",phishing,ceas2008
+Holiday schedule reminder,"From: user774@example.com
+To: target758@example.com
+Date: 2024-03-26
+Message-ID: <822794@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Holiday schedule reminder,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Team offsite planning,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Weekly status report,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Project timeline update,"From: user307@example.com
+To: target496@example.com
+Date: 2024-02-12
+Message-ID: <363926@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Q3 budget review,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user286@mailer.biz
+To: target570@example.com
+Date: 2024-05-05
+Message-ID: <268746@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user865@mailer.biz
+To: target746@example.com
+Date: 2024-02-18
+Message-ID: <336817@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. http://free-gift-claim.example.net</body></html>",phishing,ceas2008
+Weekly status report,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user695@example.com
+To: target608@example.com
+Date: 2024-08-17
+Message-ID: <799539@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>
+
+    unsubscribe   ",ham,enron
+Lose weight fast - guaranteed,"From: user39@mailer.biz
+To: target797@example.com
+Date: 2024-04-03
+Message-ID: <565330@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://free-gift-claim.example.net
+
+    unsubscribe   ",spam,spamassassin
+Final notice: update your billing information,"<html><body><p>Final notice: update your billing information</p><br>From: user822@mailer.biz
+To: target942@example.com
+Date: 2024-12-15
+Message-ID: <201987@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://free-gift-claim.example.net</body></html>",phishing,ceas2008
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user212@example.com
+To: target175@example.com
+Date: 2024-11-10
+Message-ID: <185916@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>
+
+    unsubscribe   ",ham,enron
+Project timeline update,Here is this week's status report. No major blockers to report.,ham,enron
+Lose weight fast - guaranteed,CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://free-gift-claim.example.net,spam,spamassassin
+Weekly status report,"From: user285@example.com
+To: target52@example.com
+Date: 2024-09-08
+Message-ID: <677236@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user105@example.com
+To: target824@example.com
+Date: 2024-03-04
+Message-ID: <112537@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user969@example.com
+To: target39@example.com
+Date: 2024-05-16
+Message-ID: <221761@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Your payment could not be processed,"This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. https://accounts-update.example.org",phishing,ceas2008
+Weekly status report,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+You have WON a prize!!!,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org",spam,spamassassin
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user491@mailer.biz
+To: target216@example.com
+Date: 2024-10-06
+Message-ID: <778700@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Best deal of the year - act now,"Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Your invoice from last month,The conference room is booked for 2pm. See you all there.,ham,enron
+Project timeline update,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user751@mailer.biz
+To: target340@example.com
+Date: 2024-08-15
+Message-ID: <566991@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. https://secure-verify-now.example.com</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Q3 budget review,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Your invoice from last month,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user849@example.com
+To: target291@example.com
+Date: 2024-06-18
+Message-ID: <706007@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Re: Conference room booking,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Your invoice from last month,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Server maintenance window,Here is this week's status report. No major blockers to report.,ham,enron
+Server maintenance window,Attached is your invoice for last month's consulting hours.,ham,enron
+Weekly status report,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Unusual sign-in activity detected,"From: user814@mailer.biz
+To: target213@example.com
+Date: 2024-11-03
+Message-ID: <750594@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe.
+
+    unsubscribe   ",phishing,ceas2008
+Your invoice from last month,Attached is your invoice for last month's consulting hours.,ham,enron
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user653@mailer.biz
+To: target218@example.com
+Date: 2024-01-21
+Message-ID: <310960@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Best deal of the year - act now,,spam,spamassassin
+Holiday schedule reminder,The conference room is booked for 2pm. See you all there.,ham,enron
+Buy cheap meds online now,"From: user899@mailer.biz
+To: target44@example.com
+Date: 2024-04-17
+Message-ID: <663996@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://bit.ly/3xQ1z",spam,spamassassin
+Meeting notes from yesterday,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Q3 budget review,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Follow-up on our call,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Draft contract attached,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Lose weight fast - guaranteed,,spam,spamassassin
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user298@mailer.biz
+To: target688@example.com
+Date: 2024-02-09
+Message-ID: <202972@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org</body></html>",spam,spamassassin
+Unusual sign-in activity detected,"From: user93@mailer.biz
+To: target17@example.com
+Date: 2024-08-22
+Message-ID: <419644@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com http://free-gift-claim.example.net",phishing,ceas2008
+Lose weight fast - guaranteed,"From: user11@mailer.biz
+To: target207@example.com
+Date: 2024-11-26
+Message-ID: <643323@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://bit.ly/3xQ1z",spam,spamassassin
+Team offsite planning,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+URGENT: limited time offer,"<html><body><p>URGENT: limited time offer</p><br>From: user329@mailer.biz
+To: target391@example.com
+Date: 2024-02-13
+Message-ID: <369054@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Holiday schedule reminder,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Project timeline update,"From: user330@example.com
+To: target849@example.com
+Date: 2024-04-25
+Message-ID: <984532@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.",ham,enron
+Draft contract attached,"From: user580@example.com
+To: target886@example.com
+Date: 2024-11-25
+Message-ID: <880841@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+URGENT: limited time offer,"From: user842@mailer.biz
+To: target966@example.com
+Date: 2024-12-27
+Message-ID: <389362@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.",spam,spamassassin
+Unusual sign-in activity detected,"From: user712@mailer.biz
+To: target946@example.com
+Date: 2024-10-24
+Message-ID: <418841@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com
+
+    unsubscribe   ",phishing,ceas2008
+Q3 budget review,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Final notice: update your billing information,We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. https://secure-verify-now.example.com,phishing,ceas2008
+Project timeline update,,ham,enron
+Your invoice from last month,The conference room is booked for 2pm. See you all there.,ham,enron
+Lunch tomorrow?,Attached is your invoice for last month's consulting hours.,ham,enron
+URGENT: limited time offer,"<html><body><p>URGENT: limited time offer</p><br>From: user37@mailer.biz
+To: target369@example.com
+Date: 2024-04-21
+Message-ID: <100301@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Your account has been suspended,"From: user805@mailer.biz
+To: target30@example.com
+Date: 2024-08-17
+Message-ID: <221703@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. http://192.168.1.5/login",phishing,ceas2008
+URGENT: limited time offer,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://bit.ly/3xQ1z",spam,spamassassin
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Project timeline update,,ham,enron
+Holiday schedule reminder,Attached is your invoice for last month's consulting hours.,ham,enron
+Holiday schedule reminder,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Holiday schedule reminder,"From: user108@example.com
+To: target879@example.com
+Date: 2024-03-11
+Message-ID: <531641@mail.example.com>
+
+Here is this week's status report. No major blockers to report.
+
+    unsubscribe   ",ham,enron
+Free gift card waiting,"From: user280@mailer.biz
+To: target153@example.com
+Date: 2024-03-09
+Message-ID: <220020@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. https://accounts-update.example.org
+
+    unsubscribe   ",spam,spamassassin
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user414@mailer.biz
+To: target95@example.com
+Date: 2024-06-08
+Message-ID: <323717@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Draft contract attached,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Security alert from IT department,"<html><body><p>Security alert from IT department</p><br>From: user120@mailer.biz
+To: target43@example.com
+Date: 2024-06-19
+Message-ID: <232617@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. https://secure-verify-now.example.com</body></html>",phishing,ceas2008
+Server maintenance window,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Best deal of the year - act now,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://accounts-update.example.org",spam,spamassassin
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user111@example.com
+To: target442@example.com
+Date: 2024-03-09
+Message-ID: <862847@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Holiday schedule reminder,,ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user188@example.com
+To: target383@example.com
+Date: 2024-12-05
+Message-ID: <635638@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Follow-up on our call,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Draft contract attached,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user798@example.com
+To: target173@example.com
+Date: 2024-02-17
+Message-ID: <763984@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Holiday schedule reminder,,ham,enron
+Your invoice from last month,"From: user817@example.com
+To: target532@example.com
+Date: 2024-05-26
+Message-ID: <186624@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,The conference room is booked for 2pm. See you all there.,ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user12@mailer.biz
+To: target481@example.com
+Date: 2024-08-17
+Message-ID: <592025@mail.example.com>
+
+Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com https://secure-verify-now.example.com</body></html>",phishing,ceas2008
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user418@example.com
+To: target96@example.com
+Date: 2024-04-27
+Message-ID: <218972@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user162@mailer.biz
+To: target371@example.com
+Date: 2024-10-23
+Message-ID: <956639@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://192.168.1.5/login</body></html>",spam,spamassassin
+Project timeline update,   ,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user905@mailer.biz
+To: target107@example.com
+Date: 2024-03-26
+Message-ID: <289159@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Buy cheap meds online now,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://192.168.1.5/login",spam,spamassassin
+Unusual sign-in activity detected,"From: user41@mailer.biz
+To: target991@example.com
+Date: 2024-07-22
+Message-ID: <300281@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://free-gift-claim.example.net",phishing,ceas2008
+Q3 budget review,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Best deal of the year - act now,"From: user851@mailer.biz
+To: target421@example.com
+Date: 2024-10-05
+Message-ID: <933215@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://192.168.1.5/login",spam,spamassassin
+Your payment could not be processed,"From: user554@mailer.biz
+To: target659@example.com
+Date: 2024-05-16
+Message-ID: <659876@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.",phishing,ceas2008
+Buy cheap meds online now,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://192.168.1.5/login",spam,spamassassin
+Your payment could not be processed,,phishing,ceas2008
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user103@mailer.biz
+To: target292@example.com
+Date: 2024-10-03
+Message-ID: <302897@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://free-gift-claim.example.net</body></html>",spam,spamassassin
+Hot singles in your area,CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://secure-verify-now.example.com,spam,spamassassin
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user576@example.com
+To: target200@example.com
+Date: 2024-06-18
+Message-ID: <402620@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Follow-up on our call,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Team offsite planning,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Follow-up on our call,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Follow-up on our call,"<html><body><p>Follow-up on our call</p><br>From: user657@example.com
+To: target173@example.com
+Date: 2024-10-19
+Message-ID: <261684@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Best deal of the year - act now,"From: user333@mailer.biz
+To: target888@example.com
+Date: 2024-08-08
+Message-ID: <548324@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://bit.ly/3xQ1z",spam,spamassassin
+Q3 budget review,The conference room is booked for 2pm. See you all there.,ham,enron
+Team offsite planning,"From: user491@example.com
+To: target808@example.com
+Date: 2024-10-21
+Message-ID: <895075@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user156@mailer.biz
+To: target51@example.com
+Date: 2024-09-01
+Message-ID: <294969@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Final notice: update your billing information,"<html><body><p>Final notice: update your billing information</p><br>From: user686@mailer.biz
+To: target80@example.com
+Date: 2024-12-23
+Message-ID: <702080@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.</body></html>",phishing,ceas2008
+Free gift card waiting,CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://accounts-update.example.org,spam,spamassassin
+Free gift card waiting,"From: user185@mailer.biz
+To: target586@example.com
+Date: 2024-03-19
+Message-ID: <819335@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://bit.ly/3xQ1z",spam,spamassassin
+Follow-up on our call,"<html><body><p>Follow-up on our call</p><br>From: user390@example.com
+To: target174@example.com
+Date: 2024-03-09
+Message-ID: <415759@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>
+
+    unsubscribe   ",ham,enron
+Lunch tomorrow?,"From: user848@example.com
+To: target869@example.com
+Date: 2024-02-21
+Message-ID: <999908@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.
+
+    unsubscribe   ",ham,enron
+You have WON a prize!!!,"From: user641@mailer.biz
+To: target816@example.com
+Date: 2024-02-24
+Message-ID: <989265@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://accounts-update.example.org",spam,spamassassin
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user154@example.com
+To: target562@example.com
+Date: 2024-12-20
+Message-ID: <653408@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.</body></html>",ham,enron
+Best deal of the year - act now,Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.,spam,spamassassin
+Free gift card waiting,"<html><body><p>Free gift card waiting</p><br>From: user500@mailer.biz
+To: target794@example.com
+Date: 2024-12-15
+Message-ID: <182216@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Lunch tomorrow?,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+You have WON a prize!!!,"<html><body><p>You have WON a prize!!!</p><br>From: user533@mailer.biz
+To: target8@example.com
+Date: 2024-07-21
+Message-ID: <315397@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!</body></html>",spam,spamassassin
+Server maintenance window,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Your payment could not be processed,Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe.,phishing,ceas2008
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user488@example.com
+To: target58@example.com
+Date: 2024-11-01
+Message-ID: <836986@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Draft contract attached,Here is this week's status report. No major blockers to report.,ham,enron
+Buy cheap meds online now,Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.,spam,spamassassin
+Free gift card waiting,"From: user500@mailer.biz
+To: target238@example.com
+Date: 2024-02-09
+Message-ID: <487380@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://192.168.1.5/login",spam,spamassassin
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user348@example.com
+To: target572@example.com
+Date: 2024-06-25
+Message-ID: <251275@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Holiday schedule reminder,Here is this week's status report. No major blockers to report.,ham,enron
+Meeting notes from yesterday,Here is this week's status report. No major blockers to report.,ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user989@example.com
+To: target829@example.com
+Date: 2024-08-27
+Message-ID: <303440@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user714@mailer.biz
+To: target152@example.com
+Date: 2024-08-05
+Message-ID: <314178@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z</body></html>",phishing,ceas2008
+Lose weight fast - guaranteed,"From: user546@mailer.biz
+To: target972@example.com
+Date: 2024-12-04
+Message-ID: <293079@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. http://192.168.1.5/login",spam,spamassassin
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user192@example.com
+To: target282@example.com
+Date: 2024-05-15
+Message-ID: <255851@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Lunch tomorrow?,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user391@example.com
+To: target379@example.com
+Date: 2024-03-15
+Message-ID: <146784@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Lose weight fast - guaranteed,"From: user41@mailer.biz
+To: target913@example.com
+Date: 2024-10-05
+Message-ID: <158627@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://192.168.1.5/login",spam,spamassassin
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user746@example.com
+To: target348@example.com
+Date: 2024-02-08
+Message-ID: <300896@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Action required: verify your password,We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. http://bit.ly/3xQ1z,phishing,ceas2008
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user945@mailer.biz
+To: target284@example.com
+Date: 2024-07-23
+Message-ID: <800007@mail.example.com>
+
+We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended.</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+URGENT: limited time offer,"Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! https://secure-verify-now.example.com",spam,spamassassin
+Free gift card waiting,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Hot singles in your area,Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. http://free-gift-claim.example.net,spam,spamassassin
+Lose weight fast - guaranteed,"From: user347@mailer.biz
+To: target945@example.com
+Date: 2024-11-16
+Message-ID: <597549@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!",spam,spamassassin
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user23@example.com
+To: target604@example.com
+Date: 2024-09-06
+Message-ID: <229144@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+Your account has been suspended,"<html><body><p>Your account has been suspended</p><br>From: user467@mailer.biz
+To: target980@example.com
+Date: 2024-03-20
+Message-ID: <268600@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.</body></html>",phishing,ceas2008
+Project timeline update,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Holiday schedule reminder,The conference room is booked for 2pm. See you all there.,ham,enron
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user795@example.com
+To: target967@example.com
+Date: 2024-08-02
+Message-ID: <407696@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.</body></html>",ham,enron
+You have WON a prize!!!,"Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://bit.ly/3xQ1z",spam,spamassassin
+Holiday schedule reminder,"From: user127@example.com
+To: target466@example.com
+Date: 2024-06-22
+Message-ID: <885395@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Project timeline update,"From: user519@example.com
+To: target414@example.com
+Date: 2024-03-25
+Message-ID: <992647@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+Your invoice from last month,"From: user223@example.com
+To: target992@example.com
+Date: 2024-01-19
+Message-ID: <871476@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+Lunch tomorrow?,Here is this week's status report. No major blockers to report.,ham,enron
+Follow-up on our call,"From: user784@example.com
+To: target568@example.com
+Date: 2024-04-19
+Message-ID: <326441@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.
+
+    unsubscribe   ",ham,enron
+You have WON a prize!!!,"From: user411@mailer.biz
+To: target629@example.com
+Date: 2024-11-17
+Message-ID: <400384@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Unusual sign-in activity detected,"<html><body><p>Unusual sign-in activity detected</p><br>From: user694@mailer.biz
+To: target920@example.com
+Date: 2024-06-08
+Message-ID: <916814@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach. http://192.168.1.5/login</body></html>",phishing,ceas2008
+Best deal of the year - act now,"Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Lunch tomorrow?,"From: user204@example.com
+To: target151@example.com
+Date: 2024-01-02
+Message-ID: <356736@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+Free gift card waiting,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Re: Conference room booking,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user420@example.com
+To: target303@example.com
+Date: 2024-03-02
+Message-ID: <674765@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>
+
+    unsubscribe   ",ham,enron
+Q3 budget review,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user189@mailer.biz
+To: target873@example.com
+Date: 2024-07-16
+Message-ID: <596864@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://192.168.1.5/login</body></html>",spam,spamassassin
+Weekly status report,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Make $5000 a week from home,"From: user71@mailer.biz
+To: target187@example.com
+Date: 2024-03-10
+Message-ID: <215717@mail.example.com>
+
+LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.
+
+    unsubscribe   ",spam,spamassassin
+Q3 budget review,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Project timeline update,"<html><body><p>Project timeline update</p><br>From: user603@example.com
+To: target314@example.com
+Date: 2024-03-03
+Message-ID: <963862@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Your account has been suspended,Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe. https://accounts-update.example.org,phishing,ceas2008
+Follow-up on our call,Here is this week's status report. No major blockers to report.,ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user352@example.com
+To: target664@example.com
+Date: 2024-02-22
+Message-ID: <938913@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.</body></html>",ham,enron
+Weekly status report,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Final notice: update your billing information,"<html><body><p>Final notice: update your billing information</p><br>From: user431@mailer.biz
+To: target455@example.com
+Date: 2024-12-21
+Message-ID: <122525@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z</body></html>",phishing,ceas2008
+Holiday schedule reminder,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Project timeline update,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Lose weight fast - guaranteed,"<html><body><p>Lose weight fast - guaranteed</p><br>From: user945@mailer.biz
+To: target465@example.com
+Date: 2024-10-19
+Message-ID: <172187@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://free-gift-claim.example.net</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Your payment could not be processed,"From: user985@mailer.biz
+To: target543@example.com
+Date: 2024-11-02
+Message-ID: <202093@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.",phishing,ceas2008
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user980@mailer.biz
+To: target792@example.com
+Date: 2024-09-18
+Message-ID: <107686@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!</body></html>",spam,spamassassin
+URGENT: limited time offer,"From: user723@mailer.biz
+To: target921@example.com
+Date: 2024-09-05
+Message-ID: <550955@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!
+
+    unsubscribe   ",spam,spamassassin
+Draft contract attached,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+URGENT: limited time offer,"<html><body><p>URGENT: limited time offer</p><br>From: user754@mailer.biz
+To: target537@example.com
+Date: 2024-04-08
+Message-ID: <175124@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!! http://free-gift-claim.example.net</body></html>",spam,spamassassin
+Lose weight fast - guaranteed,"Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Free gift card waiting,"Work from home and earn $5000/week, no experience needed, sign up today!!! http://192.168.1.5/login",spam,spamassassin
+Your invoice from last month,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Project timeline update,Attached is your invoice for last month's consulting hours.,ham,enron
+Weekly status report,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user342@example.com
+To: target790@example.com
+Date: 2024-03-21
+Message-ID: <374680@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.</body></html>",ham,enron
+Meeting notes from yesterday,   ,ham,enron
+Holiday schedule reminder,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Team offsite planning,"From: user566@example.com
+To: target782@example.com
+Date: 2024-09-13
+Message-ID: <577463@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.",ham,enron
+Lunch tomorrow?,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user394@mailer.biz
+To: target864@example.com
+Date: 2024-06-27
+Message-ID: <537503@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://192.168.1.5/login</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user383@example.com
+To: target242@example.com
+Date: 2024-07-03
+Message-ID: <493124@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Follow-up on our call,"From: user752@example.com
+To: target706@example.com
+Date: 2024-05-05
+Message-ID: <286340@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+You have WON a prize!!!,"<html><body><p>You have WON a prize!!!</p><br>From: user509@mailer.biz
+To: target899@example.com
+Date: 2024-04-12
+Message-ID: <573858@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about.</body></html>",spam,spamassassin
+Weekly status report,The conference room is booked for 2pm. See you all there.,ham,enron
+Follow-up on our call,"From: user53@example.com
+To: target598@example.com
+Date: 2024-08-06
+Message-ID: <649697@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Server maintenance window,Here is this week's status report. No major blockers to report.,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user763@mailer.biz
+To: target343@example.com
+Date: 2024-05-12
+Message-ID: <477808@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://secure-verify-now.example.com</body></html>",spam,spamassassin
+Q3 budget review,Attached is your invoice for last month's consulting hours.,ham,enron
+Team offsite planning,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Server maintenance window,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user933@example.com
+To: target468@example.com
+Date: 2024-01-24
+Message-ID: <251157@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Re: Conference room booking,"From: user431@example.com
+To: target681@example.com
+Date: 2024-07-22
+Message-ID: <884475@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user588@example.com
+To: target444@example.com
+Date: 2024-12-13
+Message-ID: <620226@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Best deal of the year - act now,"Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://bit.ly/3xQ1z",spam,spamassassin
+Q3 budget review,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Q3 budget review,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Re: Conference room booking,The conference room is booked for 2pm. See you all there.,ham,enron
+Follow-up on our call,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Follow-up on our call,"<html><body><p>Follow-up on our call</p><br>From: user142@example.com
+To: target522@example.com
+Date: 2024-08-03
+Message-ID: <892495@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>
+
+    unsubscribe   ",ham,enron
+Project timeline update,The conference room is booked for 2pm. See you all there.,ham,enron
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user406@example.com
+To: target135@example.com
+Date: 2024-11-21
+Message-ID: <414569@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user764@example.com
+To: target80@example.com
+Date: 2024-04-12
+Message-ID: <435039@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Weekly status report,"<html><body><p>Weekly status report</p><br>From: user805@example.com
+To: target403@example.com
+Date: 2024-06-04
+Message-ID: <691240@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>",ham,enron
+Team offsite planning,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Best deal of the year - act now,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches.",spam,spamassassin
+Follow-up on our call,"From: user597@example.com
+To: target680@example.com
+Date: 2024-03-12
+Message-ID: <425301@mail.example.com>
+
+Can we push the project deadline by a week? The vendor needs more time.",ham,enron
+Your payment could not be processed,,phishing,ceas2008
+Lunch tomorrow?,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Server maintenance window,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+You have WON a prize!!!,"<html><body><p>You have WON a prize!!!</p><br>From: user146@mailer.biz
+To: target475@example.com
+Date: 2024-11-15
+Message-ID: <194834@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock.</body></html>",spam,spamassassin
+Buy cheap meds online now,"From: user39@mailer.biz
+To: target749@example.com
+Date: 2024-10-13
+Message-ID: <182289@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user445@mailer.biz
+To: target793@example.com
+Date: 2024-12-05
+Message-ID: <899049@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://accounts-update.example.org</body></html>",spam,spamassassin
+Re: Conference room booking,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Free gift card waiting,"LIMITED TIME OFFER expires in 24 hours, buy now and save 90% on luxury watches. http://bit.ly/3xQ1z",spam,spamassassin
+Draft contract attached,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Buy cheap meds online now,"From: user434@mailer.biz
+To: target375@example.com
+Date: 2024-06-07
+Message-ID: <436318@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://bit.ly/3xQ1z
+
+    unsubscribe   ",spam,spamassassin
+Re: Conference room booking,Here is this week's status report. No major blockers to report.,ham,enron
+Your invoice from last month,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+You have WON a prize!!!,"From: user641@mailer.biz
+To: target816@example.com
+Date: 2024-02-24
+Message-ID: <989265@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! https://accounts-update.example.org",spam,spamassassin
+Security alert from IT department,"From: user11@mailer.biz
+To: target689@example.com
+Date: 2024-01-27
+Message-ID: <171252@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z",phishing,ceas2008
+Draft contract attached,"From: user216@example.com
+To: target786@example.com
+Date: 2024-10-14
+Message-ID: <748133@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user865@example.com
+To: target109@example.com
+Date: 2024-04-14
+Message-ID: <717476@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>
+
+    unsubscribe   ",ham,enron
+Draft contract attached,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Your invoice from last month,Here is this week's status report. No major blockers to report.,ham,enron
+Make $5000 a week from home,"From: user824@mailer.biz
+To: target114@example.com
+Date: 2024-05-15
+Message-ID: <594078@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://192.168.1.5/login
+
+    unsubscribe   ",spam,spamassassin
+Follow-up on our call,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user302@mailer.biz
+To: target556@example.com
+Date: 2024-12-16
+Message-ID: <298994@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org</body></html>",spam,spamassassin
+Weekly status report,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Unusual sign-in activity detected,"<html><body><p>Unusual sign-in activity detected</p><br>From: user504@mailer.biz
+To: target951@example.com
+Date: 2024-04-20
+Message-ID: <511707@mail.example.com>
+
+Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://free-gift-claim.example.net</body></html>",phishing,ceas2008
+Lose weight fast - guaranteed,"From: user192@mailer.biz
+To: target610@example.com
+Date: 2024-02-28
+Message-ID: <920347@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Lunch tomorrow?,"<html><body><p>Lunch tomorrow?</p><br>From: user184@example.com
+To: target310@example.com
+Date: 2024-01-23
+Message-ID: <660081@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.</body></html>
+
+    unsubscribe   ",ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user741@example.com
+To: target104@example.com
+Date: 2024-05-21
+Message-ID: <342389@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Meeting notes from yesterday,,ham,enron
+Team offsite planning,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Final notice: update your billing information,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox.,phishing,ceas2008
+Q3 budget review,"From: user621@example.com
+To: target718@example.com
+Date: 2024-03-14
+Message-ID: <971002@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Server maintenance window,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Your invoice from last month,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Your invoice from last month,The conference room is booked for 2pm. See you all there.,ham,enron
+Lose weight fast - guaranteed,"Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! https://secure-verify-now.example.com",spam,spamassassin
+Meeting notes from yesterday,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user749@example.com
+To: target826@example.com
+Date: 2024-02-04
+Message-ID: <428572@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>
+
+    unsubscribe   ",ham,enron
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user299@example.com
+To: target578@example.com
+Date: 2024-05-24
+Message-ID: <752966@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Holiday schedule reminder,"<html><body><p>Holiday schedule reminder</p><br>From: user280@example.com
+To: target803@example.com
+Date: 2024-08-16
+Message-ID: <339220@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Lunch tomorrow?,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Weekly status report,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Your invoice from last month,"From: user14@example.com
+To: target688@example.com
+Date: 2024-02-04
+Message-ID: <975804@mail.example.com>
+
+Here is this week's status report. No major blockers to report.",ham,enron
+Weekly status report,"From: user424@example.com
+To: target47@example.com
+Date: 2024-10-28
+Message-ID: <332022@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.
+
+    unsubscribe   ",ham,enron
+You have WON a prize!!!,"Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://secure-verify-now.example.com",spam,spamassassin
+Weekly status report,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user143@example.com
+To: target253@example.com
+Date: 2024-12-18
+Message-ID: <665158@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Lunch tomorrow?,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+You have WON a prize!!!,"From: user805@mailer.biz
+To: target165@example.com
+Date: 2024-05-22
+Message-ID: <362732@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://bit.ly/3xQ1z
+
+    unsubscribe   ",spam,spamassassin
+Q3 budget review,"From: user765@example.com
+To: target532@example.com
+Date: 2024-09-19
+Message-ID: <821068@mail.example.com>
+
+The conference room is booked for 2pm. See you all there.",ham,enron
+Weekly status report,"<html><body><p>Weekly status report</p><br>From: user380@example.com
+To: target528@example.com
+Date: 2024-09-04
+Message-ID: <434617@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.</body></html>
+
+    unsubscribe   ",ham,enron
+Lunch tomorrow?,Attached is your invoice for last month's consulting hours.,ham,enron
+Your account has been suspended,"From: user780@mailer.biz
+To: target553@example.com
+Date: 2024-09-08
+Message-ID: <586765@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe.
+
+    unsubscribe   ",phishing,ceas2008
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user156@mailer.biz
+To: target51@example.com
+Date: 2024-09-01
+Message-ID: <294969@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!!</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Free gift card waiting,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://secure-verify-now.example.com",spam,spamassassin
+Action required: verify your password,"From: user922@mailer.biz
+To: target664@example.com
+Date: 2024-10-26
+Message-ID: <293743@mail.example.com>
+
+This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.
+
+    unsubscribe   ",phishing,ceas2008
+Follow-up on our call,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Lunch tomorrow?,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Holiday schedule reminder,Attached is your invoice for last month's consulting hours.,ham,enron
+Final notice: update your billing information,Your password will expire today. Please log in immediately using the link below to avoid losing access to your mailbox. http://bit.ly/3xQ1z,phishing,ceas2008
+Meeting notes from yesterday,Here is this week's status report. No major blockers to report.,ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user833@example.com
+To: target179@example.com
+Date: 2024-01-28
+Message-ID: <404681@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Follow-up on our call,,ham,enron
+Make $5000 a week from home,"<html><body><p>Make $5000 a week from home</p><br>From: user233@mailer.biz
+To: target825@example.com
+Date: 2024-02-15
+Message-ID: <422823@mail.example.com>
+
+Lose 10kg in 2 weeks with this one weird trick doctors don't want you to know about. https://secure-verify-now.example.com</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Project timeline update,Can we push the project deadline by a week? The vendor needs more time.,ham,enron
+Unusual sign-in activity detected,"Dear customer, your recent payment failed. Update your billing details now to avoid service interruption: http://secure-billing-update.example.com http://free-gift-claim.example.net",phishing,ceas2008
+Best deal of the year - act now,"<html><body><p>Best deal of the year - act now</p><br>From: user381@mailer.biz
+To: target790@example.com
+Date: 2024-02-08
+Message-ID: <265358@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. https://accounts-update.example.org</body></html>",spam,spamassassin
+Meeting notes from yesterday,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+You have WON a prize!!!,CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now!,spam,spamassassin
+Follow-up on our call,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Q3 budget review,"Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+Re: Conference room booking,"From: user205@example.com
+To: target659@example.com
+Date: 2024-09-08
+Message-ID: <761393@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.",ham,enron
+Project timeline update,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Security alert from IT department,We detected unusual activity on your account. Click here to verify your identity within 24 hours or your account will be permanently suspended. http://free-gift-claim.example.net,phishing,ceas2008
+You have WON a prize!!!,"<html><body><p>You have WON a prize!!!</p><br>From: user408@mailer.biz
+To: target906@example.com
+Date: 2024-05-25
+Message-ID: <967823@mail.example.com>
+
+Cheap viagra and other meds, no prescription needed, discreet shipping worldwide!!! http://192.168.1.5/login</body></html>",spam,spamassassin
+Your invoice from last month,"<html><body><p>Your invoice from last month</p><br>From: user242@example.com
+To: target798@example.com
+Date: 2024-11-12
+Message-ID: <479742@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.</body></html>",ham,enron
+Follow-up on our call,Here is this week's status report. No major blockers to report.,ham,enron
+Project timeline update,Reminder that the office will be closed next Monday for the holiday.,ham,enron
+Server maintenance window,Please find the Q3 numbers below. We are slightly under budget on travel.,ham,enron
+Draft contract attached,"<html><body><p>Draft contract attached</p><br>From: user240@example.com
+To: target483@example.com
+Date: 2024-01-20
+Message-ID: <688678@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>",ham,enron
+Your invoice from last month,Let's finalise the offsite agenda by Friday so logistics can be booked.,ham,enron
+Project timeline update,"From: user333@example.com
+To: target796@example.com
+Date: 2024-10-20
+Message-ID: <189083@mail.example.com>
+
+Here is this week's status report. No major blockers to report.
+
+    unsubscribe   ",ham,enron
+Q3 budget review,Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.,ham,enron
+Your payment could not be processed,"<html><body><p>Your payment could not be processed</p><br>From: user53@mailer.biz
+To: target673@example.com
+Date: 2024-05-26
+Message-ID: <873199@mail.example.com>
+
+Your account shows suspicious sign-in attempts from an unrecognised device. Verify your identity now to keep your account safe.</body></html>
+
+    unsubscribe   ",phishing,ceas2008
+Draft contract attached,"From: user769@example.com
+To: target805@example.com
+Date: 2024-07-02
+Message-ID: <390794@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.
+
+    unsubscribe   ",ham,enron
+Follow-up on our call,Here is this week's status report. No major blockers to report.,ham,enron
+Server maintenance window,"<html><body><p>Server maintenance window</p><br>From: user246@example.com
+To: target566@example.com
+Date: 2024-06-25
+Message-ID: <396809@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Make $5000 a week from home,"Work from home and earn $5000/week, no experience needed, sign up today!!! https://secure-verify-now.example.com",spam,spamassassin
+Project timeline update,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Hot singles in your area,"From: user250@mailer.biz
+To: target776@example.com
+Date: 2024-06-25
+Message-ID: <581137@mail.example.com>
+
+Work from home and earn $5000/week, no experience needed, sign up today!!!",spam,spamassassin
+Project timeline update,Attached is your invoice for last month's consulting hours.,ham,enron
+You have WON a prize!!!,"Click here to claim your free gift card before it expires!!! Hurry, limited stock.",spam,spamassassin
+Q3 budget review,The conference room is booked for 2pm. See you all there.,ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user738@example.com
+To: target417@example.com
+Date: 2024-08-18
+Message-ID: <894993@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>",ham,enron
+Holiday schedule reminder,"From: user398@example.com
+To: target798@example.com
+Date: 2024-02-24
+Message-ID: <686716@mail.example.com>
+
+Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user21@example.com
+To: target637@example.com
+Date: 2024-03-08
+Message-ID: <232352@mail.example.com>
+
+Are you free for lunch tomorrow at noon? I wanted to discuss the new hire.</body></html>
+
+    unsubscribe   ",ham,enron
+Re: Conference room booking,"From: user238@example.com
+To: target919@example.com
+Date: 2024-09-14
+Message-ID: <834891@mail.example.com>
+
+Please find the Q3 numbers below. We are slightly under budget on travel.",ham,enron
+Follow-up on our call,"Hi team, attaching the notes from yesterday's meeting. Let me know if I missed anything.",ham,enron
+Holiday schedule reminder,Here is this week's status report. No major blockers to report.,ham,enron
+Holiday schedule reminder,"From: user307@example.com
+To: target267@example.com
+Date: 2024-03-01
+Message-ID: <524035@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.",ham,enron
+Re: Conference room booking,"<html><body><p>Re: Conference room booking</p><br>From: user775@example.com
+To: target180@example.com
+Date: 2024-08-17
+Message-ID: <783157@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.</body></html>
+
+    unsubscribe   ",ham,enron
+Buy cheap meds online now,"<html><body><p>Buy cheap meds online now</p><br>From: user25@mailer.biz
+To: target471@example.com
+Date: 2024-12-11
+Message-ID: <139726@mail.example.com>
+
+Click here to claim your free gift card before it expires!!! Hurry, limited stock. http://bit.ly/3xQ1z</body></html>
+
+    unsubscribe   ",spam,spamassassin
+Team offsite planning,"From: user383@example.com
+To: target781@example.com
+Date: 2024-03-18
+Message-ID: <916449@mail.example.com>
+
+Thanks for the call earlier, I'll send the revised proposal by EOD.",ham,enron
+You have WON a prize!!!,"<html><body><p>You have WON a prize!!!</p><br>From: user158@mailer.biz
+To: target719@example.com
+Date: 2024-09-26
+Message-ID: <212608@mail.example.com>
+
+CONGRATULATIONS!!! You have been selected to receive a FREE $1000 gift card. Click now! http://192.168.1.5/login</body></html>",spam,spamassassin
+Q3 budget review,"<html><body><p>Q3 budget review</p><br>From: user476@example.com
+To: target684@example.com
+Date: 2024-09-18
+Message-ID: <724377@mail.example.com>
+
+Attached is your invoice for last month's consulting hours.</body></html>",ham,enron
+Meeting notes from yesterday,"<html><body><p>Meeting notes from yesterday</p><br>From: user967@example.com
+To: target130@example.com
+Date: 2024-11-28
+Message-ID: <889359@mail.example.com>
+
+Let's finalise the offsite agenda by Friday so logistics can be booked.</body></html>",ham,enron
+Draft contract attached,   ,ham,enron
+Security alert from IT department,"This is the IT Service Desk. We require you to confirm your credentials via the secure portal attached, due to a recent security breach.",phishing,ceas2008
+Your invoice from last month,"From: user512@example.com
+To: target654@example.com
+Date: 2024-10-03
+Message-ID: <653948@mail.example.com>
+
+Reminder that the office will be closed next Monday for the holiday.
+
+    unsubscribe   ",ham,enron
+Team offsite planning,"<html><body><p>Team offsite planning</p><br>From: user465@example.com
+To: target278@example.com
+Date: 2024-05-09
+Message-ID: <341736@mail.example.com>
+
+Here is this week's status report. No major blockers to report.</body></html>
+
+    unsubscribe   ",ham,enron
