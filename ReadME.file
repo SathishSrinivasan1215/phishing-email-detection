@@ -1,0 +1,42 @@
+# Intelligent Spam and Phishing Email Detection
+
+Three-class email threat detector (ham / spam / phishing) combining classical ML baselines, a fine-tuned RoBERTa transformer, ensemble stacking, SHAP explainability, adversarial robustness testing, and a deployed Flask "Email Threat Checker" web app.
+
+## Overview
+
+This project classifies an email as **legitimate (ham)**, **spam**, or **phishing**, going beyond a single model to compare and combine two different modelling approaches:
+
+- **Classical baselines** — Logistic Regression, Multinomial Naive Bayes, Linear SVM, Random Forest, and XGBoost, trained on TF-IDF features (unigrams + bigrams, up to 50,000 features).
+- **Transformer fine-tuning** — RoBERTa-base fine-tuned end-to-end for three-class sequence classification, with a class-weighted loss that specifically penalises missed phishing emails (false negatives).
+- **Ensemble stacking** — a calibrated SVM and the fine-tuned RoBERTa model's class probabilities are combined via a logistic-regression meta-learner.
+- **Explainability** — SHAP values identify which specific words in an email push a prediction toward or away from "phishing."
+- **Adversarial robustness testing** — five known phishing emails are run through three obfuscation attacks (character substitution, synonym substitution, whitespace insertion) to see how much each model's detection rate degrades.
+- **Deployment** — a self-contained Flask web app ("Email Threat Checker") that a user can paste an email into and get an instant classification, confidence breakdown, and signal analysis (URL count, exclamation marks, capitalisation ratio, urgency words).
+
+## Repository contents
+
+| File | Description |
+|---|---|
+| `phishingemail.py` | Full end-to-end pipeline: data loading/cleaning, classical baselines, RoBERTa fine-tuning, ensemble stacking, SHAP, adversarial testing, and the Flask deployment. Written to run in Google Colab. |
+| `emails_raw.csv` | Labelled email dataset (text + ham/spam/phishing label) used to train and evaluate the models. |
+| `Phishing_Email_Detection_Report.pdf` | Full project report: methodology, system implementation, results, and discussion of deviations from the original proposal. |
+
+## Tech stack
+
+Python 3 · scikit-learn · XGBoost · Hugging Face Transformers (PyTorch) · SHAP · NLTK · BeautifulSoup · Flask
+
+## Dataset note
+
+The pipeline auto-detects text/label columns regardless of naming (e.g. "Email Text", "body", "label", "category") and harmonises labels into three classes. The dataset in this repo is a single CSV rather than a large combined corpus — this is a known limitation documented in the report, and results should be read as a correctness check on the pipeline rather than a final benchmark.
+
+## Running it
+
+1. Open a new Google Colab notebook (GPU runtime recommended for the RoBERTa fine-tuning step).
+2. Paste the contents of `phishingemail.py` into a single cell and run it.
+3. When prompted, upload `emails_raw.csv`.
+4. Wait for the classical baselines, RoBERTa fine-tuning, ensemble stacking, SHAP analysis, and adversarial robustness stages to complete — progress and metrics print after each stage.
+5. The pipeline then writes and launches the Email Threat Checker Flask app automatically, printing a clickable public URL (via Colab's built-in proxy — no signup or token needed).
+
+## Limitations & further work
+
+See the full report for details. In summary: the delivered dataset is smaller than originally proposed, ROC-AUC was not computed, and a DistilBERT comparison alongside RoBERTa is planned but not yet implemented.
