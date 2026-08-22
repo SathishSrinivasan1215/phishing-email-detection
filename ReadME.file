@@ -17,7 +17,7 @@ This project classifies an email as **legitimate (ham)**, **spam**, or **phishin
 
 | File | Description |
 |---|---|
-| `phishingemail.py` | Full end-to-end pipeline: data loading/cleaning, classical baselines, RoBERTa fine-tuning, ensemble stacking, SHAP, adversarial testing, and the Flask deployment. Written to run in Google Colab. |
+| `phishingemail_detector.py` | Full end-to-end pipeline: data loading/cleaning, classical baselines, RoBERTa fine-tuning, ensemble stacking, SHAP, adversarial testing, and the Flask deployment. Written to run in Google Colab. |
 | `emails_raw.csv` | Labelled email dataset (text + ham/spam/phishing label) used to train and evaluate the models. |
 | `Phishing_Email_Detection_Report.pdf` | Full project report: methodology, system implementation, results, and discussion of deviations from the original proposal. |
 
@@ -32,7 +32,7 @@ The pipeline auto-detects text/label columns regardless of naming (e.g. "Email T
 ## Running it
 
 1. Open a new Google Colab notebook (GPU runtime recommended for the RoBERTa fine-tuning step).
-2. Paste the contents of `phishingemail.py` into a single cell and run it.
+2. Paste the contents of `phishingemail_detector.py` into a single cell and run it.
 3. When prompted, upload `emails_raw.csv`.
 4. Wait for the classical baselines, RoBERTa fine-tuning, ensemble stacking, SHAP analysis, and adversarial robustness stages to complete — progress and metrics print after each stage.
 5. The pipeline then writes and launches the Email Threat Checker Flask app automatically, printing a clickable public URL (via Colab's built-in proxy — no signup or token needed).
